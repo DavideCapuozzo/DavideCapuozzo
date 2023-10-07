@@ -6,7 +6,7 @@
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-f2f2f2?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
     </a>
-	  <a href="your-linkedin-URL">
+    <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/Instragram-f2f2f2?style=for-the-badge&logo=instagram&logoColor=purple" alt="LinkedIn Badge"/>
     </a>
   </div> 
