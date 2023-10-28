@@ -12,7 +12,7 @@
     <a href="https://github.com/DavideCapuozzo">
       <img alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/capuozzo_davide/">
+    <a href="https://www.instagram.com/devsoloweb/">
       <img alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </div>
