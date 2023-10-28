@@ -17,7 +17,7 @@
     </a>
   </div>
   <h2 dir="auto"></h2>
-  <p align="center"><h4 align="center"><b>ABOUT ME</b></h4></p>
+  <p align="center"><h4 align="center"><b>ABOUT ME:</b></h4></p>
   <br>
   <div>
     <p>- 🧑‍💻 I am a technology and web enthusiast</p>
@@ -26,9 +26,19 @@
     <p>-  ₿ I have been following the world of blockchain and cryptocurrency since 2018</p>
     <p>- 📹🎮🧑‍💻🗺️ In my spare time, I like playing Video games, watching movies, programming and travel</p>
   </div>
-   <br>
+  <br>
   <h2 dir="auto"></h2>
-  <p align="center"><h4 align="center"><b>ABOUT ME</b></h4></p>
+  <p align="center"><h4 align="center"><b>EXPERIENCES:</b></h4></p>
+  <div align="center">
+    <p>🌐 <a href="https://www.andrea-service.com/">Andrea Service</a> Impianti Luce e Audio per Eventi (Wordpress)</p>
+    <p>🌐 <a href="https://drumohr.com/it/">Drumohr</a> Abbigliamento Uomo Donna (Prestashop)</p>
+    <p>🌐 <a href="https://www.deborahcortelazzi.com/">Deboracortelazzi</a> Fotografa (Wordpress)</p>
+    <p>🌐 <a href="https://www.instagram.com/piccinotti_antiquariato/">Piccinotti Antiquariato</a> (Wordpress + FB & IG)</p>
+    <p>🌐 <a href="https://www.instagram.com/perini_arredamenti/">Perini Arredamenti</a> (FB & IG)</p>
+  </div> 
+
+  <h2 dir="auto"></h2>
+  <p align="center"><h4 align="center"><b>EXPERIENCES:</b></h4></p>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
