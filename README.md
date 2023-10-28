@@ -20,17 +20,15 @@
   <p align="center"><h4 align="center"><b>ABOUT ME</b></h4></p>
   <br>
   <div>
-    - 🧑‍💻 I am a technology and web enthusiast
-    
-    - 💼 Currently working as an ecommerce specialist
-    
-    - 🏋️ I am passionate about sports in general and practice Calistenics, but I also really enjoy Boxing and Motor Sport
-    
-    -  ₿ I have been following the world of blockchain and cryptocurrency since 2018
-    
-    - 📹🎮🧑‍💻🗺️ In my spare time, I like playing Video games, watching movies, programming and travel
+    <p>- 🧑‍💻 I am a technology and web enthusiast</p>
+    <p>- 💼 Currently working as an ecommerce specialist</p>
+    <p>- 🏋️ I am passionate about sports in general and practice Calistenics, but I also really enjoy Boxing and Motor Sport</p>
+    <p>-  ₿ I have been following the world of blockchain and cryptocurrency since 2018</p>
+    <p>- 📹🎮🧑‍💻🗺️ In my spare time, I like playing Video games, watching movies, programming and travel</p>
   </div>
-  
+   <br>
+  <h2 dir="auto"></h2>
+  <p align="center"><h4 align="center"><b>ABOUT ME</b></h4></p>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
